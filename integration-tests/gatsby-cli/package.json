@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "jest --config=../jest.config.js gatsby-cli/"
+    "test": "jest --config=./jest.config.js gatsby-cli/"
   },
   "devDependencies": {
     "del-cli": "^3.0.1",
